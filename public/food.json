@@ -1,0 +1,62 @@
+[
+    {
+        "_id": 1,
+        "name": "Pizza",
+        "des": "Classic Italian delight",
+        "img": "https://i.postimg.cc/fbFwRVGn/food2.jpg"
+    },
+    {
+        "_id": 2,
+        "name": "Salad",
+        "des": "Crispy and fresh",
+        "img": "https://i.postimg.cc/Njqm5MwX/salad.jpg"
+    },
+    {
+        "_id": 3,
+        "name": "Sushi",
+        "des": "Freshly rolled perfection",
+        "img": "https://i.postimg.cc/nr3SnDWq/food6.jpg"
+    },
+    {
+        "_id": 4,
+        "name": "Pasta",
+        "des": "Creamy pasta dish",
+        "img": "https://i.postimg.cc/FHycc49B/pasta.jpg"
+    },
+    {
+        "_id": 5,
+        "name": "Tacos",
+        "des": "Mexican street flavors",
+        "img": "https://i.postimg.cc/QC8nLbfX/food5.jpg"
+    },
+    {
+        "_id": 6,
+        "name": "Ribs",
+        "des": "Smoky and tender",
+        "img": "https://i.postimg.cc/j2BN6qwG/ribs.jpg"
+    },
+    {
+        "_id": 7,
+        "name": "Noodles",
+        "des": "Thai noodle classic",
+        "img": "https://i.postimg.cc/bY5QfgC3/nodoles.jpg"
+    },
+    {
+        "_id": 8,
+        "name": "Burger",
+        "des": "Juicy and cheesy",
+        "img": "https://i.postimg.cc/YqfqzqWY/food1.jpg"
+    },
+    {
+        "_id": 9,
+        "name": "Chicken",
+        "des": "Rich Indian curry",
+        "img": "https://i.postimg.cc/Yq2TTpP1/food4.jpg"
+    },
+    {
+        "_id": 10,
+        "name": "French Fries",
+        "des": "Decadent and fudgy",
+        "img": "https://i.postimg.cc/y8pKLJYg/food3.jpg"
+    }
+]

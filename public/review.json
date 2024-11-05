@@ -1,0 +1,37 @@
+[
+    {
+        "_id": "1",
+        "Name": "Emily Johnson",
+        "address": "Bronex, USA",
+        "review": "Emily was fantastic! She went above and beyond to make sure everything was perfect. Her attention to detail and dedication made the whole experience unforgettable. Highly recommend her services!",
+        "photo": "https://i.postimg.cc/8CNmybww/pic1-1.jpg"
+    },
+    {
+        "_id": "2",
+        "Name": "Michael Smith",
+        "address": "Riverdale, USA",
+        "review": "Michael's knowledge and expertise are truly exceptional. He provided insightful guidance, was patient with our questions, and made the entire process smooth and enjoyable. Definitely someone you can rely on!",
+        "photo": "https://i.postimg.cc/FRKgvsML/pic1-2.jpg"
+    },
+    {
+        "_id": "3",
+        "Name": "Sophia Brown",
+        "address": "Brookside, USA",
+        "review": "Sophia has an amazing ability to connect with people. She made us feel comfortable from the start, and her warm personality really made a difference. Would love to work with her again!",
+        "photo": "https://i.postimg.cc/nryvqKC4/pic1-3.jpg"
+    },
+    {
+        "_id": "4",
+        "Name": "James Wilson",
+        "address": "Sunnyvale, USA",
+        "review": "James is incredibly professional and organized. He handled every detail with precision, ensuring that everything was on track. His experience and calm demeanor helped alleviate any stress we had.",
+        "photo": "https://i.postimg.cc/90Rd4gFX/pic1-4.jpg"
+    },
+    {
+        "_id": "5",
+        "Name": "Olivia Martinez",
+        "address": "Meadowland, USA",
+        "review": "Olivia's creativity and passion were truly inspiring. She brought so much energy to the project and had wonderful ideas. Her positive attitude made the whole experience enjoyable!",
+        "photo": "https://i.postimg.cc/DfM52Lyy/pic1-5.jpg"
+    }
+]
